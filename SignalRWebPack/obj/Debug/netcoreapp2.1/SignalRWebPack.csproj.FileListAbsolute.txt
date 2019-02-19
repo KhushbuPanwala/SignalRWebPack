@@ -1,0 +1,14 @@
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.deps.json
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.json
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.dev.json
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.dll
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.pdb
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csprojAssemblyReference.cache
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cache
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cs
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfoInputs.cache
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfo.cs
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.dll
+C:\Users\khushbupanwala\Documents\Khushbu Panwala\SignalR\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.pdb
